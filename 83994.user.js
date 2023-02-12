@@ -52,7 +52,7 @@
       bFrag: 'large'
     },
     'weibo.com': {
-      feedSelector: '.bigcursor, .feed_img, .media_list img, .woo-picture-main img, .wbpro-feed-ogText a, .text a, .woo-avatar-main img',
+      feedSelector: '.bigcursor, .feed_img, .media_list img, .woo-picture-main img, .wbpro-feed-ogText a, .text a, .woo-avatar-main img .woo-picture-slot img',
       sFrag: ['thumb180', 'thumb150', 'orj480', 'orj360', 'thumbnail', 'square'],
       bFrag: ['mw690', 'mw690', 'mw690', 'mw690', 'bmiddle', 'bmiddle']
     },
